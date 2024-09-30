@@ -37,7 +37,7 @@ author:
   type      : # "person" (default), "organization"
   name      : Rafael Albuquerque
   url       :
-  avatar    : # path or url of avatar image (square)
+  avatar    : assets/glider.gif # path or url of avatar image (square)
   bio       : A computer science student. A math enjoyer. Trying to figure some stuff out.
   email     : rafael.das.albuquerque@gmail.com
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name

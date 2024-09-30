@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "Hello, World!"
 date:   2024-08-26 16:59:59 -0300
 categories: general
